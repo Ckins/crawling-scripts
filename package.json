@@ -1,0 +1,25 @@
+{
+  "name": "instagram_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "instagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "axios": "^0.16.2",
+    "bluebird": "^3.5.0",
+    "emoji-regex": "^6.5.1",
+    "emoji-strip": "^1.0.1",
+    "moment": "^2.18.1",
+    "qs": "^6.4.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "underscore": "^1.8.3",
+    "uuid": "^3.0.1",
+    "winston": "^2.3.1"
+  }
+}
